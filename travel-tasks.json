@@ -1,0 +1,196 @@
+{
+  "trip": {
+    "destination": "Thailand",
+    "places_to_visit": [
+      "カオサン通り",
+      "ラン島"
+    ],
+    "luggage": {
+      "main": {
+        "name": "ProBeetle KJ-89 Sサイズ",
+        "capacity_liters": 43.1,
+        "status": "purchased",
+        "notes": "機内持ち込みサイズ寄り。TSAロック、4輪Wキャスター、静音キャスター。"
+      },
+      "sub": {
+        "name": "PEAK HUNT系30Lバックパック",
+        "status": "owned",
+        "notes": "スーツケースと合わせて荷物容量を補う。"
+      }
+    }
+  },
+  "shopping_items": [
+    {
+      "name": "スーツケース",
+      "category": "luggage",
+      "purchased": true,
+      "priority": "high",
+      "notes": "ProBeetle KJ-89 Sサイズ 43.1Lを購入済み。"
+    },
+    {
+      "name": "変換アダプタ",
+      "category": "electronics",
+      "purchased": false,
+      "priority": "high",
+      "notes": "Cタイプ対応または全世界対応のマルチ変換プラグ。Anker充電器を使うならUSB付きでなくてもよい。"
+    },
+    {
+      "name": "水着",
+      "category": "beach",
+      "purchased": false,
+      "priority": "high",
+      "notes": "ラン島用。"
+    },
+    {
+      "name": "帽子",
+      "category": "clothing",
+      "purchased": false,
+      "priority": "medium",
+      "notes": "日差し対策。折りたためるものが便利。"
+    }
+  ],
+  "packing_items": [
+    {
+      "name": "パスポート",
+      "category": "documents",
+      "packed": false,
+      "priority": "high",
+      "notes": "有効期限を確認。"
+    },
+    {
+      "name": "航空券・予約情報",
+      "category": "documents",
+      "packed": false,
+      "priority": "high",
+      "notes": "スマホ保存とオフライン控え。"
+    },
+    {
+      "name": "現金・クレジットカード",
+      "category": "money",
+      "packed": false,
+      "priority": "high",
+      "notes": "小額現金も用意。"
+    },
+    {
+      "name": "スマホ",
+      "category": "electronics",
+      "packed": false,
+      "priority": "high",
+      "notes": "地図、翻訳、予約確認用。"
+    },
+    {
+      "name": "Anker 323 Charger 33W",
+      "category": "electronics",
+      "packed": false,
+      "priority": "high",
+      "notes": "入力100-240V対応。タイの220Vでも変圧器なしで使用可。"
+    },
+    {
+      "name": "変換アダプタ",
+      "category": "electronics",
+      "packed": false,
+      "priority": "high",
+      "notes": "タイはコンセント形状が複数あるため持参推奨。"
+    },
+    {
+      "name": "モバイルバッテリー",
+      "category": "electronics",
+      "packed": false,
+      "priority": "medium",
+      "notes": "航空会社の持ち込み条件を確認。"
+    },
+    {
+      "name": "水着",
+      "category": "beach",
+      "packed": false,
+      "priority": "high",
+      "notes": "ラン島用。"
+    },
+    {
+      "name": "帽子",
+      "category": "clothing",
+      "packed": false,
+      "priority": "medium",
+      "notes": "日差し対策。"
+    },
+    {
+      "name": "サングラス",
+      "category": "clothing",
+      "packed": false,
+      "priority": "medium",
+      "notes": "海・街歩き用。"
+    },
+    {
+      "name": "日焼け止め",
+      "category": "toiletries",
+      "packed": false,
+      "priority": "high",
+      "notes": "液体物制限に注意。"
+    },
+    {
+      "name": "着替え",
+      "category": "clothing",
+      "packed": false,
+      "priority": "high",
+      "notes": "帰りのお土産スペースを残す。"
+    },
+    {
+      "name": "常備薬",
+      "category": "health",
+      "packed": false,
+      "priority": "medium",
+      "notes": "胃薬、痛み止め、酔い止めなど必要に応じて。"
+    },
+    {
+      "name": "エコバッグ・折りたたみバッグ",
+      "category": "shopping",
+      "packed": false,
+      "priority": "medium",
+      "notes": "お土産や現地買い物用。"
+    }
+  ],
+  "souvenirs": [
+    {
+      "recipient_group": "家族・義理家族",
+      "count": 6,
+      "idea": "少し良いもの",
+      "purchased": false,
+      "priority": "high",
+      "notes": "箱物・液体・壊れ物を増やしすぎない。"
+    },
+    {
+      "recipient_group": "会社の人達",
+      "count": 60,
+      "idea": "個包装のばらまき菓子",
+      "purchased": false,
+      "priority": "high",
+      "notes": "軽くて数が多く、職場で配りやすいもの。"
+    },
+    {
+      "recipient_group": "会社の同期",
+      "count": 2,
+      "idea": "会社向けより少し良いもの",
+      "purchased": false,
+      "priority": "medium",
+      "notes": "小さめで特別感があるもの。"
+    }
+  ],
+  "packing_strategy": {
+    "suitcase_return": [
+      "重いもの",
+      "壊れやすいもの",
+      "液体",
+      "箱物"
+    ],
+    "backpack_return": [
+      "服",
+      "帽子",
+      "軽いお菓子",
+      "潰れてもよいもの"
+    ],
+    "notes": "35〜45L帯のスーツケースなので、箱物や大きい雑貨を増やしすぎない。"
+  },
+  "open_notes": [
+    "Thailand_Travel_Plan_2026.pdf の旅程、宿泊先、移動、予約情報などを追記する。"
+  ]
+}
